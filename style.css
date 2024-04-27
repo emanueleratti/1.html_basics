@@ -1,0 +1,11 @@
+body {background-color: #f0f0f0;}
+.container {display:flex;}
+.sx {width:30%;padding-top:50px;}
+.dx {width:70%;}
+.small {font-size:0.5em;}
+.mid {font-size:0.75em; font-style:italic;}
+ul {padding-inline-start:16px;}
+table td {width:50%;vertical-align:top;}
+table th {text-align:left;}
+a {text-decoration:none; color:black;}
+a:hover {text-decoration:underline;}
